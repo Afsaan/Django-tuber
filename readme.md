@@ -1,4 +1,4 @@
-# install pipenv
+# Install pipenv
 - pip3 install pipenv 
 
 # Create a python env
@@ -6,8 +6,14 @@
 
 
 # Install the dependencies
+see the dependencies in pipfile
 
+# Connect the postgres database
+>> python3 manage.py makemigrations
+>> python3 manage.py migrate
 
-# connect the postgres database
+# admin theme link
+>> https://djangopackages.org/grids/g/admin-interface/
+
 
 
