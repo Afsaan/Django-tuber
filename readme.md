@@ -16,4 +16,8 @@ see the dependencies in pipfile
 >> https://djangopackages.org/grids/g/admin-interface/
 
 
+# Create an app
+>> python3 manage.py startapp webpages 
+
+
 
